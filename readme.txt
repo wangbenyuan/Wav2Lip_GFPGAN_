@@ -23,8 +23,8 @@ https://github.com/TencentARC/GFPGAN
 
 
 权重文件：
-链接：https://pan.baidu.com/s/1NO1PD6KxCeTy5G-RO9yFeQ 
-提取码：b0bv
+链接: https://pan.baidu.com/s/1-kL-fTub5kfhrlKtPlfwjw 
+提取码：dgta
 
 其中：s3fd.pth 放在face_detection/detection/sfd/s3fd.pth
 
